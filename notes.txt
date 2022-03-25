@@ -1,0 +1,8 @@
+Api key-f605e6736b34abe0325d2350d9d6f973
+
+Api access token-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNjA1ZTY3MzZiMzRhYmUwMzI1ZDIzNTBkOWQ2Zjk3MyIsInN1YiI6IjYyM2MwNTRkNTU0MWZhMDA0OTRmNmVjNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.f8_LwJTzEy2HOGCx-XawkUCLYy5Ir_zaYYHD8f8UrTc
+
+api-req -https://api.themoviedb.org/3/movie/550?api_key=f605e6736b34abe0325d2350d9d6f973
+
+
+webapp-: netflix-clone-7d9ae.web.app
